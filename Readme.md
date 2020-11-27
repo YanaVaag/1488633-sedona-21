@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Yana Vaag](https://up.htmlacademy.ru/adaptive/21/user/1488633).
-* Наставник: `Неизвестно`.
+* Наставник: `Наталья Налимова`(https://up.htmlacademy.ru/adaptive/21/user/16507).
 
 ---
 
